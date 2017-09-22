@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="javafx" name="Lesson13-Questions">
-    <output-path>$PROJECT_DIR$/out/artifacts/Lesson13_Questions</output-path>
+  <artifact type="javafx" name="Exe Build">
+    <output-path>$PROJECT_DIR$/out/artifacts/Exe_Build</output-path>
     <properties id="javafx-properties">
       <options>
         <option name="appClass" value="Program" />
